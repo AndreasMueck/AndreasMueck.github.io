@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T08:10:57.937Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="86H0ibKW3vSuxS9l9mNq" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-14T09:43:21.633Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JBhXmXs-gGk3NEgmYdnm" version="21.6.6" type="github">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="3550" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#7EA6E0" math="0" shadow="1">
+    <mxGraphModel dx="1420" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#7EA6E0" math="0" shadow="1">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -215,9 +215,11 @@
         <mxCell id="XAPB6TSRlGvESBFHfuO5-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry y="225" width="912" height="945" as="geometry" />
         </mxCell>
-        <mxCell id="303ed1de8c2c98b4-5" value="CTO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="XAPB6TSRlGvESBFHfuO5-2" vertex="1">
-          <mxGeometry x="322" y="46.78217821782178" width="275" height="74.85148514851485" as="geometry" />
-        </mxCell>
+        <UserObject label="CTO" link="https://www.google.de" id="303ed1de8c2c98b4-5">
+          <mxCell style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="XAPB6TSRlGvESBFHfuO5-2" vertex="1">
+            <mxGeometry x="322" y="46.78217821782178" width="275" height="74.85148514851485" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="303ed1de8c2c98b4-6" value="CCO" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeWidth=1;fontSize=16;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="XAPB6TSRlGvESBFHfuO5-2" vertex="1">
           <mxGeometry x="637" y="46.78217821782178" width="275" height="74.85148514851485" as="geometry" />
         </mxCell>
