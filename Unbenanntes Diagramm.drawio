@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T15:22:48.432Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8T9_XHXXsFSpkibTwR3s" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T15:23:31.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="EE-zTeRiRPKz6kXnfdWh" version="22.0.4" type="github">
   <diagram name="Page-1" id="4bd5d27a-524c-7e24-5d5f-89a86ee4fca1">
     <mxGraphModel dx="1420" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -103,9 +103,11 @@
         <mxCell id="48ef80bc37b76060-117" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.office_chair;shadow=0;direction=south;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1081" y="749" width="43" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="48ef80bc37b76060-118" value="" style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1004" y="719" width="100" height="100" as="geometry" />
-        </mxCell>
+        <UserObject label="" link="https://www.mywup.de/profile/649171efb62bf24bd36d5e79" linkTarget="_blank" id="48ef80bc37b76060-118">
+          <mxCell style="shape=rect;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;align=center;html=1;" parent="1" vertex="1">
+            <mxGeometry x="1004" y="719" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="48ef80bc37b76060-119" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeWidth=1;shape=mxgraph.floorplan.office_chair;shadow=0;rounded=0;comic=0;fontFamily=Verdana;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="1034" y="939" width="40" height="43" as="geometry" />
         </mxCell>
